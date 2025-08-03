@@ -50,3 +50,17 @@ This spreadsheet helps you:
 =Current Price × Quantity
 =Current Value − Total Invested
 =(Gain/Loss ÷ Total Invested)
+
+## 📌 Features
+
+- Live price fetching with `GOOGLEFINANCE()` (Google Sheets only)
+- Automatic gain/loss + % return calculation
+- Clean, visual charts (Pie + Bar)
+- Easy to customize and expand
+
+## 🛠️ Upcoming Improvements (To-Do)
+
+- Add a dashboard for top gainers/losers
+- Support for dividends & SIP tracking
+- Python automation version
+
