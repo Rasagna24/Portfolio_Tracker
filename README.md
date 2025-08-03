@@ -38,7 +38,7 @@ This spreadsheet helps you:
 
 ## 🖼️ Preview
 
-<img width="1286" height="735" alt="image" src="https://github.com/user-attachments/assets/c521633b-c6f1-4c2d-b98d-786c7c213ac0" />
+<img width="1264" height="740" alt="image" src="https://github.com/user-attachments/assets/784c6c05-ccd5-4364-96bd-661335e9288c" />
 
 
 ---
